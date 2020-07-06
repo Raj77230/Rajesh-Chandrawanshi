@@ -1,2 +1,0 @@
-# Rajesh-Chandrawanshi
-Resume Rajesh
