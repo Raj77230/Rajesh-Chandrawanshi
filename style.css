@@ -1,0 +1,125 @@
+.icons{
+    color:red;
+}
+.main{
+position:absolute;
+top:100%;
+left:0%;    
+}
+.main h1{
+    color:chartreuse;
+    font-size:20px;
+}
+.main p{
+color:cyan;
+font-size:10px;
+}
+
+.main{
+    background-color:white;
+    width:1518px;
+    border:1px solid black;
+    padding:10px;
+}
+.bgimage{
+     background-image:url('image1.jpg');
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    width: 100%;
+    height: 800px;
+   
+}
+.search-container{
+    position: absolute;
+    top: 300%;
+    left: 45%;
+    transform: translate(-50%,-50%);
+    
+}
+input{
+    border:3px solid #32e17c;
+    border-radius: 50px;
+    padding: 0px 10px;
+}
+.hearderset{
+    padding-top:250px;
+    box-sizing:border-box;
+    color:darkgreen;
+}
+form.example input[type=text]{
+    padding: 10px;
+    font-size:17px;
+    border:1px solid black;
+    float:inherit;
+    width:80%;
+    background:#f1f1f1;
+}
+form.example button{
+    float:left;
+    width:20%;
+    padding:10px;
+    background:#2196F3;
+    color:white;
+    font-size:15px;
+    border:1px solid black;
+    curser:pointer;
+}
+form.example button:hover{
+    background:#0b7dda;
+}
+.search{
+    position: absolute;
+    top:60%;
+    left:40%;
+    
+}
+#down{
+    position: absolute;
+    top:64%;
+    left:38%;
+    color:black;
+    font-family: cursive;
+    
+}
+.ourservices{
+    padding: 100px 0px 60px;
+    height:700px; 
+}
+.ourservices h1,p{
+    font-weight:bold;
+}
+.imgsetting{
+   margin:80px 0px;
+    
+}
+.raj{
+    border-radius:50px;
+    border:2px solid white;
+    padding-top: 5px;
+}
+.portfolio{
+  margin:30px 0px 0px 0px;  
+}
+.portfolio2{
+    margin:50px 0px 0px 0px;
+}
+.raj1 h4{
+    color:yellowgreen;
+}
+.raj1 p{
+    color:darkgrey;
+}
+.portfolio3 img{
+    height:90px;
+    width:90px;
+}
+.country{
+    padding:180px 0px 0px 0px;
+}
+.btn{
+    background-color:yellow;
+    border: 2px solid white;
+}
+.portfolio4{
+    padding:130px 0px 0px 0px;
+}
